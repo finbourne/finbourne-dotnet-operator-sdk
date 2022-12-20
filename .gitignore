@@ -30,3 +30,10 @@ bld/
 coverage.json
 coverage.info
 .vs
+
+.*
+!.gitignore
+!/.gitlab
+bin
+obj
+.idea
