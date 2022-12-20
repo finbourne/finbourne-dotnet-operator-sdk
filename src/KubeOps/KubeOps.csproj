@@ -40,6 +40,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="Build\Finbourne.KubeOps.targets">
+      <PackagePath>build/</PackagePath>
+    </Content>
     <Content Include="Build\KubeOps.targets">
       <PackagePath>build\</PackagePath>
     </Content>
